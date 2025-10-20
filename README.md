@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWdoYmc3eThiZzRoMnlpbWxtcmh3OWczczk3eWhmdGF6d3U0ZzltZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif" width="300"/>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 </div>
 
 <h1 align="center">🐾 GlitchKitten</h1>
