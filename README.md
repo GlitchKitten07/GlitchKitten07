@@ -6,46 +6,46 @@
 
 <h1 align="center">🐾 GlitchKitten</h1>
 
-<h3 align="center">Digital Witch | Cybersecurity Enthusiast | Maker of Controlled Chaos</h3>
+<h3 align="center">Tinkerer | Builder | Creative Technologist</h3>
 
 <p align="center">
-  <em>"Magic is just code we don’t understand yet."</em>
+  <em>"Curiosity built this cat."</em>
 </p>
 
 ---
 
-### 🌙 About Me  
-🖤 I mix logic and lunar magic in equal parts; crafting tools, ideas, and tech experiments that make life easier (and a little stranger).  
-🔮 Fascinated by cybersecurity, automation, and the thin line between creation and chaos.  
-🧩 Obsessed with learning — currently playing with Python, Raspberry Pi, and C-based sorcery.  
-🐈‍⬛ Cat-powered, caffeine-sustained, and always debugging reality.
+### 💡 About  
+This is my digital playground — where I experiment, learn, and occasionally break things on purpose.  
+🧠 Exploring how code turns ideas into reality.  
+⚙️ Playing with automation, Raspberry Pi projects, and random side quests.  
+💬 Sometimes it works. Sometimes it meows angrily. Either way, I learn.
 
 ---
 
-### ✨ Projects Brewing
-- 🧠 **Hacker Baby Book** — beginner-friendly cybersecurity & CTF learning  
-- 🌿 **Greenhouse SCADA System** — Raspberry Pi monitoring meets magic  
-- ⚡ **Digital Prepper Templates** — survival, organization, and automation tools  
-- 🪄 **Automation Experiments** — scripts that behave like enchanted familiars  
+### 🧰 Projects in Progress  
+- 🧠 **Hacker Baby Book** — beginner cybersecurity learning guide  
+- 🌿 **Greenhouse Monitor** — Raspberry Pi + sensor dashboard  
+- ⚡ **Automation Toys** — small scripts that make life easier  
+- 🪄 **CatGPT** — sarcastic chatbot experiment (because why not)
 
 ---
 
-### 🛠️ Tech Grimoire
+### 🛠️ Tech Stack Playground
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,raspberrypi,arduino,vscode,github,obsidian,git&perline=8&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,raspberrypi,arduino,vscode,github,git,html,css,js&perline=8&theme=dark"/>
 </div>
 
 ---
 
-### 🪬 GitHub Divination
+### 📊 GitHub Stats
 <div align="center">
   <table>
     <tr>
       <td>
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlitchKitten07&langs_count=6&theme=midnight-purple"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlitchKitten07&langs_count=6&theme=tokyonight"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=GlitchKitten07&show_icons=true&theme=midnight-purple"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=GlitchKitten07&show_icons=true&theme=tokyonight"/>
       </td>
     </tr>
   </table>
@@ -53,9 +53,9 @@
 
 ---
 
-### 🔗 Summon My Other Self
-💼 For academic and professional projects, visit my <a href="https://github.com/Angelchild00" target="_blank">main GitHub profile</a>.  
-✨ Both sides of the same mind with logic and magic, coexisting beautifully.
+### 🔗 Connect the Dots  
+💼 For my professional and academic work, visit [Angelchild00](https://github.com/Angelchild00).  
+✨ This repo is where I play, experiment, and share what I learn along the way.
 
 ---
 
