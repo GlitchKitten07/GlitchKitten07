@@ -1,6 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWdoYmc3eThiZzRoMnlpbWxtcmh3OWczczk3eWhmdGF6d3U0ZzltZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif" width="300" alt="binary cat"/>
 </div>
+
 
 <h1 align="center">🐾 GlitchKitten</h1>
 
@@ -13,7 +14,7 @@
 ---
 
 ### 🌙 About Me  
-🖤 I mix logic and lunacy in equal parts — crafting tools, ideas, and tech experiments that make life easier (and a little stranger).  
+🖤 I mix logic and lunar magic in equal parts; crafting tools, ideas, and tech experiments that make life easier (and a little stranger).  
 🔮 Fascinated by cybersecurity, automation, and the thin line between creation and chaos.  
 🧩 Obsessed with learning — currently playing with Python, Raspberry Pi, and C-based sorcery.  
 🐈‍⬛ Cat-powered, caffeine-sustained, and always debugging reality.
@@ -40,10 +41,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glitchkitten&langs_count=6&theme=midnight-purple"/>
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlitchKitten07&langs_count=6&theme=midnight-purple"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=glitchkitten&show_icons=true&theme=midnight-purple"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=GlitchKitten07&show_icons=true&theme=midnight-purple"/>
       </td>
     </tr>
   </table>
@@ -53,10 +54,10 @@
 
 ### 🔗 Summon My Other Self
 💼 For academic and professional projects, visit my <a href="https://github.com/Angelchild00" target="_blank">main GitHub profile</a>.  
-✨ Both sides of the same mind with logic and lunacy, coexisting beautifully.
+✨ Both sides of the same mind with logic and magic, coexisting beautifully.
 
 ---
 
 <div align="center">
-  <sub>“Well-behaved women rarely make history. But they do make excellent commit messages.” 🖋️</sub>
+  <sub>“Well-behaved women rarely make history...but they do make excellent commit messages.” 🖋️</sub>
 </div>
